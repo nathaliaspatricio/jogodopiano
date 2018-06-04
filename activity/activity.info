@@ -1,0 +1,7 @@
+[Activity]
+name = JogoDoPiano
+activity_version = 1
+host_version = 1
+service_name = org.laptop.dev.JogoDoPiano
+icon = activity-JogoDoPiano
+class = activity.JogoDoPianoActivity

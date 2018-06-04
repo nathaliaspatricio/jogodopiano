@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/56/trunk/olpcgames
+END
+gtkEvent.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31/trunk/olpcgames/gtkEvent.py
+END
+camera.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/30/trunk/olpcgames/camera.py
+END
+canvas.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31/trunk/olpcgames/canvas.py
+END
+eventwrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/olpcgames/eventwrap.py
+END
+pangofont.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/olpcgames/pangofont.py
+END
+mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/31/trunk/olpcgames/mesh.py
+END
+activity.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31/trunk/olpcgames/activity.py
+END
+tubeconn.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/56/trunk/olpcgames/tubeconn.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/30/trunk/olpcgames/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31/trunk/olpcgames/__init__.py
+END
+video.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/30/trunk/olpcgames/video.py
+END
